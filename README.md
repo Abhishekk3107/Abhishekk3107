@@ -70,7 +70,7 @@
 ### 🤝 Let’s Connect
 - 💌 **Email:** [ak3012498@gmail.com](mailto:ak3012498@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/abhishekkumar3107](https://www.linkedin.com/in/abhishekkumar3107)  
-- 🌐 **Portfolio:** [portfolio‑abhi31.netlify.app](https://portfolio-abhi31.netlify.app)
+- 🌐 **Portfolio:** [abhishek-kumar-portfolio-three.vercel.app](https://abhishek-kumar-portfolio-three.vercel.app)
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
 
