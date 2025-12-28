@@ -1,73 +1,156 @@
-<!-- Profile README — Abhishek Kumar -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=03C988&center=true&vCenter=true&width=620&height=70&lines=%F0%9F%91%8B+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%21+I%E2%80%99m+Abhishek+Kumar;Front‑End+Developer;Building+Tech+for+Good+%F0%9F%8C%B3;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=03C988&center=true&vCenter=true&width=620&height=60&lines=%F0%9F%91%8B+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%21+I%E2%80%99m+Abhishek+Kumar;Front‑End+Developer;Always+Learning+🚀" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abhishekk3107"><img src="https://komarev.com/ghpvc/?username=Abhishekk3107&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></a>
-  <a href="https://github.com/Abhishekk3107?tab=followers"><img src="https://img.shields.io/github/followers/Abhishekk3107?label=Followers&style=social" alt="followers"></a>
-  <a href="mailto:ak3012498@gmail.com"><img src="https://img.shields.io/badge/Email-ak3012498%40gmail.com-e95420?style=flat&logo=gmail&logoColor=white" alt="email"></a>
-  <a href="https://linkedin.com/in/abhishekkumar3107"><img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://portfolio-abhi31.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=About.me&logoColor=white" alt="portfolio"></a>
-</p>
+<div align="center">
+  <a href="https://github.com/Abhishekk3107">
+    <img src="https://komarev.com/ghpvc/?username=Abhishekk3107&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Abhishekk3107?tab=followers">
+    <img src="https://img.shields.io/github/followers/Abhishekk3107?label=Followers&style=flat&color=orange" alt="followers" />
+  </a>
+  <a href="https://linkedin.com/in/abhishekkumar3107">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ak3012498@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=flat&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://portfolio-abhi31.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=flat&logo=google-chrome&logoColor=white" alt="portfolio" />
+  </a>
+</div>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 **BCA student** at CCS University, Meerut (2023‑2026) — *1st rank* in first semester (84%).   
-- 💻 **Front‑End Developer** focused on **React.js, Tailwind CSS, JavaScript** & modern web tooling.  
-- 🌱 Currently polishing **TypeScript** and full‑stack practices while contributing to open‑source.  
-- 🌳 Passionate about tech for good—built an eco‑platform **Tree for Me** that lets you sponsor tree plantations.   
-- 🗺️ Based in India, open to remote internship & freelance opportunities.
+- 🎓 **BCA Student** at CCS University, Meerut (2023‑2026) — *1st Rank (Sem 1)*.
+- 💻 **Front‑End Developer** specializing in **React.js, Tailwind CSS, & TypeScript**.
+- 🌱 Currently expanding into **Full-Stack** (MERN) & Open Source contributions.
+- 🌳 **Creator of [Tree for Me](https://github.com/Abhishekk3107/Tree-for-Me):** An eco‑platform allowing users to sponsor tree plantations.
+- 🗺️ Based in India, open to **remote internships & freelance**.
 
 ---
 
+### 🛠️ Tech Stack
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-*(Responsive design, REST APIs, SEO, debugging & version control are second nature.)* 
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" /><br>NextJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node" /><br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br>Netlify
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🚀 Featured Projects
-| Project | Tech | What it does |
-|---------|------|--------------|
-| **Ask‑AI** | React • TypeScript • Gemini AI | Chat app with Google OAuth, prompt history & streaming responses. :contentReference[oaicite:3]{index=3} |
-| **Tree for Me** | React • Tailwind | Sponsor tree planting, real‑time updates, media uploads.  |
-| **Freeway Study** | React • Tailwind | Resource hub for notes, quizzes & contributor dashboard with SEO tagging.  |
-| **Wedding Invite Site** | HTML • CSS • JS | Mobile‑first invitation with RSVP & Google Maps integration.  |
-| **My Portfolio** | HTML • CSS • JS | One‑page showcase with smooth‑scroll & project carousel. :contentReference[oaicite:7]{index=7} |
 
-> Browse all **13 repositories** on my [GitHub profile »](https://github.com/Abhishekk3107?tab=repositories)
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Ask‑AI** | React • TypeScript • Gemini API | Intelligent chat app with Google OAuth, prompt history & streaming responses. |
+| **Tree for Me** | React • Tailwind CSS | Eco-platform for sponsoring tree planting with real‑time updates. |
+| **Freeway Study** | React • Tailwind | Resource hub for notes & quizzes with a contributor dashboard. |
+| **Wedding Invite** | HTML • CSS • JS | Mobile‑first digital invitation with RSVP & Maps integration. |
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishekk3107&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhishekk3107&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekk3107&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhishekk3107&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Abhishekk3107&icon=0&color=0)](https://visitcount.itsvg.in)
+> 📊 **Explore all 13+ repositories on my [GitHub Profile »](https://github.com/Abhishekk3107?tab=repositories)**
 
 ---
 
-### 📚 Certifications
-- **Full‑Stack Developer Bootcamp — GeeksforGeeks (2024)**  
-- **JavaScript Certification Test — KG CODING (2024)**   
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekk3107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekk3107&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhishekk3107&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+</div>
 
 ---
 
 ### 🤝 Let’s Connect
-- 💌 **Email:** [ak3012498@gmail.com](mailto:ak3012498@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/abhishekkumar3107](https://www.linkedin.com/in/abhishekkumar3107)  
-- 🌐 **Portfolio:** [abhishek-kumar-portfolio-three.vercel.app](https://abhishek-kumar-portfolio-three.vercel.app)
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
+<p align="center">
+  <a href="mailto:ak3012498@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ak3012498%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abhishekkumar3107">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://abhishek-kumar-portfolio-three.vercel.app">
+    <img src="https://img.shields.io/badge/Website-Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-Thanks for stopping by! If something here sparks your interest, feel free to open an issue, star a repo, or just say hi. 😊
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i>
+</p>
+
+<div align="center">
+   <img src="https://visitcount.itsvg.in/api?id=Abhishekk3107&icon=0&color=0" />
+</div>
