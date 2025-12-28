@@ -119,16 +119,16 @@
 > 📊 **Explore all 13+ repositories on my [GitHub Profile »](https://github.com/Abhishekk3107?tab=repositories)**
 
 ---
-
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekk3107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekk3107&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekk3107&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhishekk3107&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekk3107&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ---
