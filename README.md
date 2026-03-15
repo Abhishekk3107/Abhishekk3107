@@ -15,7 +15,7 @@
   <a href="mailto:ak3012498@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=flat&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://portfolio-abhi31.netlify.app">
+  <a href="https://abhishek-kumar-portfolio-three.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=flat&logo=google-chrome&logoColor=white" alt="portfolio" />
   </a>
 </div>
