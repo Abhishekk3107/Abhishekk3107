@@ -27,7 +27,7 @@
 - 💻 **Front‑End Developer** specializing in **React.js, Tailwind CSS, & TypeScript**.
 - 🌱 Currently expanding into **Full-Stack** (MERN) & Open Source contributions.
 - 🌳 **Creator of [Tree for Me](https://github.com/Abhishekk3107/Tree-for-Me):** An eco‑platform allowing users to sponsor tree plantations.
-- 🗺️ Based in India, open to **remote internships & freelance**.
+- 🗺️ Based in Ghaziabad ,India, open to **remote internships & freelance**.
 
 ---
 
